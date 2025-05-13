@@ -2,6 +2,7 @@
     "name": "ehabtalaat/upayment",
     "description": "This is a payment gateway package for integrating UPayment",
     "type": "composer-plugin",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Ehabtalaat\\Upayment\\": "src/"
