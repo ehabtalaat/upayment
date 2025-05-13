@@ -1,0 +1,20 @@
+{
+    "name": "ehabtalaat/upayment",
+    "description": "This is a payment gateway package for integrating UPayment",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Ehabtalaat\\Upayment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehabtalaat"
+        }
+    ],
+   "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^8.0",
+        "php": ">=8.2"
+       }
+}
