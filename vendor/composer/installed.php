@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'ehabtalaat/upayment',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '30c18d52a7e36b993d1ccd94564723ab083d5c42',
         'type' => 'composer-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'ehabtalaat/upayment' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '30c18d52a7e36b993d1ccd94564723ab083d5c42',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -29,8 +29,8 @@
             'dev_requirement' => false,
         ),
         'guzzlehttp/promises' => array(
-            'pretty_version' => '2.2.x-dev',
-            'version' => '2.2.9999999.9999999-dev',
+            'pretty_version' => '2.2.0',
+            'version' => '2.2.0.0',
             'reference' => '7c69f28996b0a6920945dd20b3857e499d9ca96c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../guzzlehttp/promises',
@@ -38,8 +38,8 @@
             'dev_requirement' => false,
         ),
         'guzzlehttp/psr7' => array(
-            'pretty_version' => '2.7.x-dev',
-            'version' => '2.7.9999999.9999999-dev',
+            'pretty_version' => '2.7.1',
+            'version' => '2.7.1.0',
             'reference' => 'c2270caaabe631b3b44c85f99e5a04bbb8060d16',
             'type' => 'library',
             'install_path' => __DIR__ . '/../guzzlehttp/psr7',
@@ -47,14 +47,12 @@
             'dev_requirement' => false,
         ),
         'psr/http-client' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => '1.0.3',
+            'version' => '1.0.3.0',
             'reference' => 'bb5906edc1c324c9a05aa0873d40117941e5fa90',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psr/http-client',
-            'aliases' => array(
-                0 => '1.0.x-dev',
-            ),
+            'aliases' => array(),
             'dev_requirement' => false,
         ),
         'psr/http-client-implementation' => array(
@@ -79,14 +77,12 @@
             ),
         ),
         'psr/http-message' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => '2.0',
+            'version' => '2.0.0.0',
             'reference' => '402d35bcb92c70c026d1a6a9883f06b2ead23d71',
             'type' => 'library',
             'install_path' => __DIR__ . '/../psr/http-message',
-            'aliases' => array(
-                0 => '2.0.x-dev',
-            ),
+            'aliases' => array(),
             'dev_requirement' => false,
         ),
         'psr/http-message-implementation' => array(
@@ -105,14 +101,12 @@
             'dev_requirement' => false,
         ),
         'symfony/deprecation-contracts' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '63afe740e99a13ba87ec199bb07bbdee937a5b62',
+            'pretty_version' => 'v3.5.1',
+            'version' => '3.5.1.0',
+            'reference' => '74c71c939a79f7d5bf3c1ce9f5ea37ba0114c6f6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/deprecation-contracts',
-            'aliases' => array(
-                0 => '3.6.x-dev',
-            ),
+            'aliases' => array(),
             'dev_requirement' => false,
         ),
     ),
