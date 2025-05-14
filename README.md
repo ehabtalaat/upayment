@@ -1,6 +1,6 @@
 # UPayment PHP Integration
 
-A simple and lightweight package to integrate with the [UPayment](https://www.upayment.com/) payment gateway in PHP (Laravel compatible).
+A simple and lightweight package to integrate with the UPayment payment gateway in PHP (Laravel compatible).
 
 > ✅ Created for learning and experimenting with package development — feel free to use and contribute.
 
