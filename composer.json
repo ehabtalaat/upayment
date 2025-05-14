@@ -17,6 +17,10 @@
     "prefer-stable": true,
     "require": {
         "guzzlehttp/guzzle": "^7.0",
-        "php": ">=8.2"
-    }
+      "composer-plugin-api": "^2.0",
+      "php": ">=8.2"
+    },
+  "extra": {
+    "class": "Ehabtalaat\\Upayment\\Plugin"
+  }
 }

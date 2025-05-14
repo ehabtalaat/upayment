@@ -3,7 +3,7 @@
         'name' => 'ehabtalaat/upayment',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a921d4ce2aed8073708cb389b76f758a46fdc2bc',
+        'reference' => '8ade35991c5d15a9d5bbbd06f51ae22977730f26',
         'type' => 'composer-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ehabtalaat/upayment' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a921d4ce2aed8073708cb389b76f758a46fdc2bc',
+            'reference' => '8ade35991c5d15a9d5bbbd06f51ae22977730f26',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
