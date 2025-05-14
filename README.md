@@ -17,8 +17,8 @@ composer require ehabtalaat/upayment
 ```php
 
 
-use Ehabtalaat\Upayment\Gateway\UPaymentGateway;
-use Ehabtalaat\Upayment\Services\PaymentService;
+use Ehabtalaat\Upayment\UPaymentGateway;
+use Ehabtalaat\Upayment\PaymentService;
 
 $config = [
     "token"    => "YOUR_TOKEN",
